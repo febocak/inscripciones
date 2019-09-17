@@ -1363,7 +1363,7 @@ const environment = {
         storageBucket: "fobokac-01.appspot.com",
         messagingSenderId: "1019734820364"
     },
-    modulo: 'Administración'
+    modulo: 'Inscripciones'
 };
 
 
